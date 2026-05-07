@@ -13,7 +13,7 @@ A base de dados conta com mais de **200.000 registros**, abrangendo o período d
 
 ## 📸 Demonstração
 
-![GIF Demonstrativo do Dashboard](assets/vendas.gif)
+![GIF Demonstrativo do Dashboard](assets/Vendas.gif)
 *Legenda: Navegação pelos filtros de categoria e análise de evolução temporal.*
 
 ---
