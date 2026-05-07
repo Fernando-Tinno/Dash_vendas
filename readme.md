@@ -13,7 +13,7 @@ A base de dados conta com mais de **200.000 registros**, abrangendo o período d
 
 ## 📸 Demonstração
 
-![GIF Demonstrativo do Dashboard](\assets\Vendas.mp4)
+[![Demonstração do Dashboard](assets/thumb_dashboard.png)](assets/Vendas.mp4)
 *Legenda: Navegação pelos filtros de categoria e análise de evolução temporal.*
 
 ---
@@ -53,6 +53,6 @@ O dashboard foca nos seguintes indicadores chave de performance (KPIs):
 
 ## ✍️ Autor
 **Fernando Tinno Venceslau**
-* [LinkedIn](linkedin.com/in/fernando-tinno)
+* * [LinkedIn](https://www.linkedin.com/in/fernando-tinno/)
 
 ---
